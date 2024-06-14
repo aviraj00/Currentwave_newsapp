@@ -11,13 +11,16 @@ Currentwave is a Flutter application that provides the latest news headlines. Th
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.jpeg)
+<img src="screenshot/spash.jpeg" alt="splashscreen" width="300"/>
+*splashscreen*
+
+<img src="screenshot/home.jpeg" alt="home" width="300"/>
 *Top Headlines Screen*
 
-![Screenshot 2](path/to/screenshot2.jpeg)
-*News Details Screen*
+<img src="screenshot/filter.jpeg" alt="filter" width="300"/>
+*Filter Screen*
 
-![Screenshot 3](path/to/screenshot3.jpeg)
+<img src="screenshot/category.jpeg" alt="category" width="300"/>
 *Categories Screen*
 
 ## Installation
